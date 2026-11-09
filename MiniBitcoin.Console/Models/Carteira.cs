@@ -1,4 +1,4 @@
-
+//
 namespace MiniBitcoin.ConsoleApp.Models;
 
 public class Carteira
