@@ -1,4 +1,5 @@
-﻿using MiniBitcoin.ConsoleApp.Models;
+﻿//
+using MiniBitcoin.ConsoleApp.Models;
 using Xunit;
 
 namespace MiniBitcoin.Tests;
